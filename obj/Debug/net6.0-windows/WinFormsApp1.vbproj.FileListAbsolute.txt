@@ -22,7 +22,6 @@ C:\Forma\GitHub\Sessão 2\portefolio\bin\Debug\net6.0-windows\WinFormsApp1.runti
 C:\Forma\GitHub\Sessão 2\portefolio\bin\Debug\net6.0-windows\WinFormsApp1.dll
 C:\Forma\GitHub\Sessão 2\portefolio\bin\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
-C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
@@ -34,3 +33,5 @@ C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\refint\WinFormsApp
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.config.resources
+C:\Forma\GitHub\Sessão 2\portefolio\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources

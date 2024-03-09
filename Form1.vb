@@ -9,6 +9,13 @@
         myProcess.StartInfo.FileName = "https://www.canva.com/design/DAF58mt9cPo/MLuXMr_RXyzxvv3dn14erA/view?utm_content=DAF58mt9cPo&utm_campaign=designshare&utm_medium=link&utm_source=editor"
         myProcess.Start()
     End Sub
+
+    Private Sub ConfiguraçãoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ConfiguraçãoToolStripMenuItem.Click
+        Dim f As New config()
+
+        f.ShowDialog()
+
+    End Sub
 End Class
 
 

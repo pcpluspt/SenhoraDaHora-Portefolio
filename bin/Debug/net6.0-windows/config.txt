@@ -1,0 +1,12 @@
+C:\PCplus\Fabrica\LicenciarPCplusExpress
+andre.txt
+andrei.txt
+duarte.txt
+fabricio.txt
+filipe.txt
+francisco.txt
+joao.txt
+leandro.txt
+ricardo.txt
+tomas.txt
+
